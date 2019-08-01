@@ -1,6 +1,5 @@
 use std::io::{self, Read, Write};
 use std::fs::File;
-use std::process;
 use std::time::Duration;
 use std::collections::VecDeque;
 use std::os::unix::io::FromRawFd;
